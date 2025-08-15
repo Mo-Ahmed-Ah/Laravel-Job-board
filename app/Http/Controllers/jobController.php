@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\Jop;
 
-class obController extends Controller
+class JobController extends Controller
 {
     public function index()
     {
